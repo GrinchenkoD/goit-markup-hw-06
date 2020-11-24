@@ -828,6 +828,7 @@ color: var(--accent-color);
 .modal-form-policy:checked + .modal-form-policy-label::before {
         background-color: var(--accent-color);
         background-image: url(../images/icons/check.svg);
+        background-size: cover;
         border: 0px;
 }
 
