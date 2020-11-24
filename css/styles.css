@@ -829,7 +829,8 @@ color: var(--accent-color);
         background-color: var(--accent-color);
         background-image: url(../images/icons/check.svg);
         background-size: cover;
-        border: 0px;
+        background-repeat:no-repeat;
+ border: 0px;
 }
 
 /* =============================Портфолио========================== */
